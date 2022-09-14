@@ -9,5 +9,5 @@ It should meet following criteria
 4. Seekbar to change current time
 5. Subtitles of the video should play in sync with the video
 
-Please find rough wireframe below you are free to change it though
+Please find rough wireframe below, you are free to change it though
 ![Player Wireframe!](player-wireframe.png "Player Wireframe")
