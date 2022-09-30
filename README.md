@@ -9,6 +9,8 @@ It should meet following criteria
 4. Support play, pause, forward and rewind
 5. Seekbar to change current time
 6. Subtitles of the video should play in sync with the video
+7. Source code must be shared with GitHub
+8. Code must be hosted somewhere i.e. Vercel/Netlify
 
 Useful Resources
 1. https://reactjs.org/tutorial/tutorial.html
